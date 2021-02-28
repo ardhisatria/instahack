@@ -58,6 +58,7 @@ echo
 
 ;;
 3) python init.py
+echo
 
 ;;
 
